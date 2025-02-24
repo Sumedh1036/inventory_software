@@ -1,0 +1,9 @@
+{
+    "database-client.autoSync": true,
+    "database-client.completionTriggerKey": [
+        
+        " ",
+        "@",
+        "."
+    ]
+}
